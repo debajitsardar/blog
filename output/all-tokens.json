@@ -1,0 +1,2356 @@
+[
+    {
+        "id": "24502da1-7474-4c49-9915-c9f882f1862a",
+        "createdAt": "2022-06-25T14:22:51.210Z",
+        "updatedAt": "2022-07-09T13:01:00.903Z",
+        "name": "adjustments",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a450d5d7-bccc-4b78-80ce-b6cf0c86b382",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "adjustments",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:750-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "ee4b708f-74a1-4051-b628-dc4d33547871",
+        "createdAt": "2022-06-25T14:22:51.141Z",
+        "updatedAt": "2022-07-09T13:01:00.814Z",
+        "name": "archive",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a00d65d7-9418-4ecd-9bb0-d35f1d4a5815",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "archive",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:674-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "b22a5151-559b-4238-af4a-c2ff60e93c04",
+        "createdAt": "2022-06-25T14:22:51.098Z",
+        "updatedAt": "2022-07-09T13:01:00.729Z",
+        "name": "arrow-circle-down / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ce460d5e-4e84-4d80-82a8-f20a4f475de2",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-down / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-down"
+        },
+        "type": "vector",
+        "originId": "31:1127-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "29f36267-0566-4df9-98fe-b5f04e673e3f",
+        "createdAt": "2022-06-25T14:22:51.098Z",
+        "updatedAt": "2022-07-09T13:01:00.733Z",
+        "name": "arrow-circle-down / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4a92cb14-f200-4323-ac7f-1cf7d6d49959",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-down / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-down"
+        },
+        "type": "vector",
+        "originId": "31:1147-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "6e5eb63f-2aed-4b89-86e5-9382e6066c68",
+        "createdAt": "2022-06-25T14:22:51.098Z",
+        "updatedAt": "2022-07-09T13:01:00.735Z",
+        "name": "arrow-circle-left / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c83daf83-6abe-4647-af3b-4dc79cdbf352",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-left / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-left"
+        },
+        "type": "vector",
+        "originId": "31:1129-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "a5690bce-ca83-49e0-bd26-172c36f114b4",
+        "createdAt": "2022-06-25T14:22:51.100Z",
+        "updatedAt": "2022-07-09T13:01:00.742Z",
+        "name": "arrow-circle-left / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fd82c7a3-b1d5-43a3-a4e1-fe28e609ca3c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-left / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-left"
+        },
+        "type": "vector",
+        "originId": "31:1149-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "e6dcc2eb-7426-4b55-a203-73217e1346dc",
+        "createdAt": "2022-06-25T14:22:51.077Z",
+        "updatedAt": "2022-07-09T13:01:00.718Z",
+        "name": "arrow-circle-right / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/351fba6b-c6f1-4fc6-8bf0-3638de9ce5dd",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-right / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-right"
+        },
+        "type": "vector",
+        "originId": "31:1123-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "9e943973-844b-4023-a196-10a41eb1fa9d",
+        "createdAt": "2022-06-25T14:22:51.095Z",
+        "updatedAt": "2022-07-09T13:01:00.719Z",
+        "name": "arrow-circle-right / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ab87eb52-ca2e-48e4-bd72-cd77138c9bb4",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-right / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-right"
+        },
+        "type": "vector",
+        "originId": "31:1143-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "40ce28fc-4de3-41f9-8da4-57daf9bdfe92",
+        "createdAt": "2022-06-25T14:22:51.106Z",
+        "updatedAt": "2022-07-09T13:01:00.744Z",
+        "name": "arrow-circle-up / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ec8c70aa-393a-493c-991e-1f5d8efab9ae",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-up / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-up"
+        },
+        "type": "vector",
+        "originId": "31:1131-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "13d83925-ccfd-4b8b-b450-c47ea7ca0dee",
+        "createdAt": "2022-06-25T14:22:51.108Z",
+        "updatedAt": "2022-07-09T13:01:00.745Z",
+        "name": "arrow-circle-up / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3f1800ac-cef0-45cb-85b6-ab085cc49f91",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "arrow-circle-up / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "arrow-circle-up"
+        },
+        "type": "vector",
+        "originId": "31:1151-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "f9b5d7dc-5529-45e0-9a48-4740ce4ea947",
+        "createdAt": "2022-06-25T14:27:26.980Z",
+        "updatedAt": "2022-06-25T14:27:26.980Z",
+        "name": "base-space-1",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:419",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "094107fb-d7bf-435d-b161-75e7ebd47e40",
+        "createdAt": "2022-06-25T14:27:27.004Z",
+        "updatedAt": "2022-06-25T14:27:27.004Z",
+        "name": "base-space-10",
+        "value": {
+            "unit": "px",
+            "measure": 56
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:426",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d450fd93-dc7c-47dd-a337-e379ef091560",
+        "createdAt": "2022-06-25T14:27:26.990Z",
+        "updatedAt": "2022-06-25T14:27:26.990Z",
+        "name": "base-space-11",
+        "value": {
+            "unit": "px",
+            "measure": 64
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:428",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "342995d9-e59e-433e-afc3-9b3e56bbd220",
+        "createdAt": "2022-06-25T14:27:26.999Z",
+        "updatedAt": "2022-06-25T14:27:26.999Z",
+        "name": "base-space-12",
+        "value": {
+            "unit": "px",
+            "measure": 80
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:485",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "723682b4-9133-4be5-bd09-98ae8195168a",
+        "createdAt": "2022-06-25T14:27:26.988Z",
+        "updatedAt": "2022-06-25T14:27:26.988Z",
+        "name": "base-space-2",
+        "value": {
+            "unit": "px",
+            "measure": 8
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "96:661",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "23394a78-c9c2-4165-8f80-1176e33873ec",
+        "createdAt": "2022-06-25T14:27:26.991Z",
+        "updatedAt": "2022-06-25T14:27:26.991Z",
+        "name": "base-space-3",
+        "value": {
+            "unit": "px",
+            "measure": 12
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "96:662",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d38dd8e9-b947-4e27-ab9b-5909332aa0fb",
+        "createdAt": "2022-06-25T14:27:26.989Z",
+        "updatedAt": "2022-06-25T14:27:26.989Z",
+        "name": "base-space-4",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "96:663",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "369762ec-163a-49a7-9c2c-5ea2653671bf",
+        "createdAt": "2022-06-25T14:27:27.004Z",
+        "updatedAt": "2022-06-25T14:27:27.004Z",
+        "name": "base-space-5",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:422",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "72e362be-ba9e-4424-acaf-1ca53f699e89",
+        "createdAt": "2022-06-25T14:27:27.004Z",
+        "updatedAt": "2022-06-25T14:27:27.004Z",
+        "name": "base-space-6",
+        "value": {
+            "unit": "px",
+            "measure": 24
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:440",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "8e69965a-b246-4d4b-bc0e-68c50a8b941f",
+        "createdAt": "2022-06-25T14:27:27.007Z",
+        "updatedAt": "2022-06-25T14:27:27.007Z",
+        "name": "base-space-7",
+        "value": {
+            "unit": "px",
+            "measure": 32
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:441",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "c8d693fe-7348-4c65-8ae6-e06b7bf8f46d",
+        "createdAt": "2022-06-25T14:27:27.004Z",
+        "updatedAt": "2022-06-25T14:27:27.004Z",
+        "name": "base-space-8",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:442",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "443cb84b-04c0-4624-afdf-b3c9720c2cbe",
+        "createdAt": "2022-06-25T14:27:27.003Z",
+        "updatedAt": "2022-06-25T14:27:27.003Z",
+        "name": "base-space-9",
+        "value": {
+            "unit": "px",
+            "measure": 48
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Measurements"
+        },
+        "type": "measurement",
+        "originId": "14:425",
+        "sourceId": "882af8a0-ec1b-4c5e-9ed3-63bb3574aa11",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "cb5b433c-df2c-4adb-977a-c3a209fba7ca",
+        "createdAt": "2022-06-25T14:22:51.119Z",
+        "updatedAt": "2022-07-09T13:01:00.786Z",
+        "name": "bell",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5043e5ff-3116-4987-b305-d1f2c11da620",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bell",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:668-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "b3f7d8d4-e507-4525-96f2-f35b0addbac4",
+        "createdAt": "2022-06-25T14:23:50.790Z",
+        "updatedAt": "2022-07-10T13:00:59.551Z",
+        "name": "bitmap-01",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cdc5f7cb-b803-44eb-aee5-38fd6ddc8b82",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-01",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2147-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d8401120-677f-41a4-ac49-5739eb3998e3",
+        "createdAt": "2022-06-25T14:23:50.794Z",
+        "updatedAt": "2022-07-10T13:00:59.550Z",
+        "name": "bitmap-02",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f84be7ca-fb29-4dbc-9d02-0cd0fd856be6",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-02",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2146-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "3029588d-13a6-4726-9345-c2f24a793595",
+        "createdAt": "2022-06-25T14:23:50.796Z",
+        "updatedAt": "2022-07-10T13:00:59.532Z",
+        "name": "bitmap-03",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad6c131a-1783-4051-aec0-a2e5fb99e35b",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-03",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2145-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d117bdde-93ab-4aa0-bbe7-ed1f360ebf7a",
+        "createdAt": "2022-06-25T14:23:50.785Z",
+        "updatedAt": "2022-07-10T13:00:59.532Z",
+        "name": "bitmap-04",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a83ff6b2-dfbd-4156-85a5-7ca7da914cdc",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-04",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2148-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "8f0b65ad-ae25-4f46-b656-2f4214a42c20",
+        "createdAt": "2022-06-25T14:23:50.789Z",
+        "updatedAt": "2022-07-10T13:00:59.532Z",
+        "name": "bitmap-05",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56921bc5-5ed4-47eb-a8ca-f94d732f8c6d",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-05",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2144-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "0e217524-9ab5-48db-a94b-fc8428589768",
+        "createdAt": "2022-06-25T14:23:50.778Z",
+        "updatedAt": "2022-07-10T13:00:59.532Z",
+        "name": "bitmap-06",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/66446e83-4294-41fb-9239-786d44331055",
+            "format": "jpg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bitmap-06",
+            "format": "jpg",
+            "dimension": 1,
+            "parentFrame": "Bitmaps"
+        },
+        "type": "bitmap",
+        "originId": "16:2149-jpg-1",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "04b541c5-df3e-490b-96cc-88e02d2c08fb",
+        "createdAt": "2022-06-25T14:22:51.212Z",
+        "updatedAt": "2022-07-09T13:01:00.906Z",
+        "name": "bookmark",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/65baa47d-18ec-4d59-8ad5-82e45b298aac",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "bookmark",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:754-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "96c5c988-426f-4806-8216-daa141c6d2d0",
+        "createdAt": "2022-06-25T14:24:45.157Z",
+        "updatedAt": "2022-06-25T14:24:45.157Z",
+        "name": "border-dashed",
+        "value": {
+            "type": "dashed",
+            "color": {
+                "value": {
+                    "a": 1,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                }
+            },
+            "width": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1
+                }
+            },
+            "dashes": [
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 2
+                    }
+                },
+                {
+                    "value": {
+                        "unit": "px",
+                        "measure": 2
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Borders"
+        },
+        "type": "border",
+        "originId": "18:174",
+        "sourceId": "06c42b83-6ddd-49f4-a13c-2d6c5ca04330",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "48d321f4-b6f8-4d99-8f89-4415c7e27369",
+        "createdAt": "2022-06-25T14:24:45.113Z",
+        "updatedAt": "2022-06-25T14:24:45.113Z",
+        "name": "border-gradient",
+        "value": {
+            "type": "solid",
+            "width": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1
+                }
+            },
+            "gradient": {
+                "value": {
+                    "gradients": [
+                        {
+                            "angle": "135deg",
+                            "colors": [
+                                {
+                                    "type": "color",
+                                    "color": {
+                                        "value": {
+                                            "a": 1,
+                                            "b": 105,
+                                            "g": 153,
+                                            "r": 254
+                                        }
+                                    },
+                                    "position": 0
+                                },
+                                {
+                                    "type": "color",
+                                    "color": {
+                                        "value": {
+                                            "a": 1,
+                                            "b": 246,
+                                            "g": 84,
+                                            "r": 138
+                                        }
+                                    },
+                                    "position": 50
+                                },
+                                {
+                                    "type": "color",
+                                    "color": {
+                                        "value": {
+                                            "a": 1,
+                                            "b": 100,
+                                            "g": 95,
+                                            "r": 255
+                                        }
+                                    },
+                                    "position": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Borders"
+        },
+        "type": "border",
+        "originId": "18:149",
+        "sourceId": "06c42b83-6ddd-49f4-a13c-2d6c5ca04330",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "7853dd38-8393-4ce2-a0b1-3e0bc9a18f70",
+        "createdAt": "2022-06-25T14:24:45.172Z",
+        "updatedAt": "2022-06-25T14:24:45.172Z",
+        "name": "border-solid",
+        "value": {
+            "type": "solid",
+            "color": {
+                "value": {
+                    "a": 1,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                }
+            },
+            "width": {
+                "value": {
+                    "unit": "px",
+                    "measure": 1
+                }
+            }
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/qU1nTKWI5GIJ49lG6iJGoo",
+            "originFrameName": "Borders"
+        },
+        "type": "border",
+        "originId": "18:173",
+        "sourceId": "06c42b83-6ddd-49f4-a13c-2d6c5ca04330",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "37623ab8-ab82-4543-bd8b-eb8d2af7af46",
+        "createdAt": "2022-06-25T14:22:51.137Z",
+        "updatedAt": "2022-07-09T13:01:00.810Z",
+        "name": "briefcase",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b203b616-6c73-496a-82d1-9f2f590d82b2",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "briefcase",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:704-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "25214ab6-ab19-4e34-88fd-7504c14a90d7",
+        "createdAt": "2022-06-25T14:22:51.212Z",
+        "updatedAt": "2022-07-09T13:01:00.910Z",
+        "name": "calendar",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fd6a5ca4-21ee-4834-9313-3ba4719c798c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "calendar",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:760-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "1b5e7d1f-a7fb-407e-8003-b3adc387be90",
+        "createdAt": "2022-06-25T14:22:51.119Z",
+        "updatedAt": "2022-07-09T13:01:00.786Z",
+        "name": "camera",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/be67c7c8-3f23-4f09-bcc0-7c86a6ec54c3",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "camera",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:666-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "5260ded8-e6f9-48d0-8802-e0958bf09fa0",
+        "createdAt": "2022-06-25T14:22:51.212Z",
+        "updatedAt": "2022-07-09T13:01:00.905Z",
+        "name": "cash",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b909db96-7adb-46f3-adfb-692a3a195728",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "cash",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:752-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "7e07d8b2-4138-4ec2-9b97-a55b228b9318",
+        "createdAt": "2022-06-25T14:22:51.150Z",
+        "updatedAt": "2022-07-09T13:01:00.826Z",
+        "name": "chart-pie",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b73efcd4-cddb-45c9-8635-5d34d8671e82",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "chart-pie",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:720-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "fb112ef2-eedc-4374-a6a8-3f04322c3e44",
+        "createdAt": "2022-06-25T14:22:51.111Z",
+        "updatedAt": "2022-07-09T13:01:00.756Z",
+        "name": "chat-alt / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/dc8e3913-c979-4639-90f6-51a155e02ca4",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "chat-alt / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "chat-alt"
+        },
+        "type": "vector",
+        "originId": "55:158-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "25e43eb3-8083-4642-9318-edb7b0e28350",
+        "createdAt": "2022-06-25T14:22:51.113Z",
+        "updatedAt": "2022-07-09T13:01:00.758Z",
+        "name": "chat-alt / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0885633e-2b1a-41c8-93a0-2c4a77c09c1d",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "chat-alt / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "chat-alt"
+        },
+        "type": "vector",
+        "originId": "55:160-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "5b92c674-a894-4464-947e-8e9cc3db05ad",
+        "createdAt": "2022-06-25T14:22:51.184Z",
+        "updatedAt": "2022-07-09T13:01:00.886Z",
+        "name": "check",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56ff2775-8710-49e1-8829-9ee2eae60772",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "check",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:718-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "232e73a5-42cc-4ec5-9d4c-5771e05fa550",
+        "createdAt": "2022-06-25T14:22:51.073Z",
+        "updatedAt": "2022-07-09T13:01:00.685Z",
+        "name": "check-circle / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/47bfc4c6-9b68-492b-96a5-c0b131c63d7a",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "check-circle / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "check-circle"
+        },
+        "type": "vector",
+        "originId": "52:150-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "f75ed3f4-614e-4b38-a6ab-738099d93243",
+        "createdAt": "2022-06-25T14:22:51.082Z",
+        "updatedAt": "2022-07-09T13:01:00.690Z",
+        "name": "check-circle / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/72ddc8f1-1ad9-4475-97f1-b703790f3c75",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "check-circle / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "check-circle"
+        },
+        "type": "vector",
+        "originId": "52:152-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "eb72a17d-3834-4fac-83d6-a6264d063f98",
+        "createdAt": "2022-06-25T14:22:51.147Z",
+        "updatedAt": "2022-07-09T13:01:00.827Z",
+        "name": "clock",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6723d315-535c-44b1-bbbf-6b288b330d49",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "clock",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:714-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "014a439b-7085-4280-a011-9b2ae0812ffc",
+        "createdAt": "2022-06-25T14:22:51.213Z",
+        "updatedAt": "2022-07-09T13:01:00.913Z",
+        "name": "cloud-download",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e2187c9a-20c4-4243-97e7-84f4f8d36feb",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "cloud-download",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:766-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "9352ec8f-421c-43ba-aff1-3cdd81b37e7f",
+        "createdAt": "2022-06-25T14:22:51.213Z",
+        "updatedAt": "2022-07-09T13:01:00.911Z",
+        "name": "cloud-upload",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/86f6586e-01a9-4a2e-a9e3-bcbbd756e7af",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "cloud-upload",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:764-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "4ddc17f5-161d-4d38-985b-30b79b3d9b30",
+        "createdAt": "2022-06-25T14:22:51.177Z",
+        "updatedAt": "2022-07-09T13:01:00.871Z",
+        "name": "cog",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c4d92f43-37ee-4a6a-bfe3-ae9babfd2e3d",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "cog",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:678-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "927e853c-b7c0-4233-9690-94dad2acd2e7",
+        "createdAt": "2022-06-25T14:22:51.113Z",
+        "updatedAt": "2022-07-09T13:01:00.772Z",
+        "name": "color-swatch",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f8adb0fc-ffea-4286-a0a7-2ecbeaac0107",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "color-swatch",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:662-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "706f7480-3441-47fe-9988-eaa04a58f566",
+        "createdAt": "2022-06-25T14:22:51.163Z",
+        "updatedAt": "2022-07-09T13:01:00.865Z",
+        "name": "document",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bea5525d-3ee1-4b05-8cd9-05a1d45e00d0",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "document",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:734-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "bc425124-91f2-404b-86ab-29a1f21e55d6",
+        "createdAt": "2022-06-25T14:22:51.187Z",
+        "updatedAt": "2022-07-09T13:01:00.895Z",
+        "name": "document-add",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/766cd873-2df6-4f7f-8c1d-d576c151f7fc",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "document-add",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:732-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "9c93feda-760d-4165-9065-a4db59a9603b",
+        "createdAt": "2022-06-25T14:22:51.183Z",
+        "updatedAt": "2022-07-09T13:01:00.880Z",
+        "name": "document-download",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8085e489-4be2-47a0-bac2-9c732565cb3b",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "document-download",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:712-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "b95ef196-1e9a-4951-a7d0-fd80cee0768e",
+        "createdAt": "2022-06-25T14:22:51.205Z",
+        "updatedAt": "2022-07-09T13:01:00.899Z",
+        "name": "document-remove",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d86fe7b4-53ae-4bce-9ea6-5c04a1cefaa8",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "document-remove",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:748-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "5e38e261-1313-4e60-b3a1-94fcbf324da8",
+        "createdAt": "2022-06-25T14:22:51.137Z",
+        "updatedAt": "2022-07-09T13:01:00.808Z",
+        "name": "duplicate",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/221bd4e7-cd13-4b0b-8baf-844d5e65f03c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "duplicate",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:702-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "83539b22-3576-4bde-98dc-60ee1c7118bf",
+        "createdAt": "2022-06-25T14:22:51.124Z",
+        "updatedAt": "2022-07-09T13:01:00.797Z",
+        "name": "exclamation",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c183478b-4fb0-4799-874e-b7cc5ffecd89",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "exclamation",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:672-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "2c5cc893-a6f6-496b-86b3-76b96f522fa6",
+        "createdAt": "2022-06-25T14:22:51.076Z",
+        "updatedAt": "2022-07-09T13:01:00.676Z",
+        "name": "exclamation-circle / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1c0c1295-2c5a-488b-86de-47465addcb87",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "exclamation-circle / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "exclamation-circle"
+        },
+        "type": "vector",
+        "originId": "31:1119-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "a8939522-6cd0-4ddc-84d4-7bcebb774aaf",
+        "createdAt": "2022-06-25T14:22:51.088Z",
+        "updatedAt": "2022-07-09T13:01:00.760Z",
+        "name": "exclamation-circle / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/261e9bcf-87a1-4f19-9057-aae951b1436b",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "exclamation-circle / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "exclamation-circle"
+        },
+        "type": "vector",
+        "originId": "31:1139-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "fda6ff1b-8eeb-4b1b-9d73-0092afa223da",
+        "createdAt": "2022-06-25T14:22:51.202Z",
+        "updatedAt": "2022-07-09T13:01:00.897Z",
+        "name": "eye",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d726db86-3fbd-4aee-b339-3aaca898dd16",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "eye",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:742-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "1ee407dd-1697-49d0-ad48-5fe1f84a42f4",
+        "createdAt": "2022-06-25T14:22:51.177Z",
+        "updatedAt": "2022-07-09T13:01:00.876Z",
+        "name": "globe",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cdd7c0d4-a6e8-4ec1-bd24-afc968f7edd7",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "globe",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:740-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "7e9f6f5a-51fd-4071-8980-c061bf9c3777",
+        "createdAt": "2022-06-25T14:22:51.126Z",
+        "updatedAt": "2022-07-09T13:01:00.802Z",
+        "name": "globe-alt",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/39cca7f5-3159-4387-8e42-bbfe32e3ca7c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "globe-alt",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:680-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "a02faee9-abb9-4097-9167-21018082d550",
+        "createdAt": "2022-06-25T14:22:51.152Z",
+        "updatedAt": "2022-07-09T13:01:00.831Z",
+        "name": "heart",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/37b0c6f5-8d94-4dba-8ef9-946669d43e5f",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "heart",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:724-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "0da4437c-056e-41e9-9303-69734bc243df",
+        "createdAt": "2022-06-25T14:22:51.126Z",
+        "updatedAt": "2022-07-09T13:01:00.803Z",
+        "name": "home",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cb385cd3-a829-42bb-bbdf-919327798631",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "home",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:682-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "5e070641-133b-4bd2-b028-43fe64bf8046",
+        "createdAt": "2022-06-25T14:22:51.124Z",
+        "updatedAt": "2022-07-09T13:01:00.793Z",
+        "name": "inbox",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/34e1da8d-128c-4350-b7f5-a834c1c9357c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "inbox",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:650-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "8208ed5a-a828-462d-b23e-a41ab23f969e",
+        "createdAt": "2022-06-25T14:22:51.128Z",
+        "updatedAt": "2022-07-09T13:01:00.804Z",
+        "name": "inbox-in",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cc133dac-5803-4f02-b699-c804bc70c0c0",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "inbox-in",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:694-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "578fcd6b-0aac-403b-a3a1-9e4f4d5c2402",
+        "createdAt": "2022-06-25T14:22:51.213Z",
+        "updatedAt": "2022-07-09T13:01:00.910Z",
+        "name": "link",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ace843fe-ed02-4b9d-a04f-5b3adfaab0c9",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "link",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:762-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "27b01ef0-b782-4f54-9afc-af464b418a05",
+        "createdAt": "2022-06-25T14:22:51.113Z",
+        "updatedAt": "2022-07-09T13:01:00.771Z",
+        "name": "location-marker",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/025e6086-6478-4cd3-832e-6ed5e4f2ef8d",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "location-marker",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:736-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "f2f343b3-975f-4b84-ba01-91fa6ce67e9e",
+        "createdAt": "2022-06-25T14:22:51.113Z",
+        "updatedAt": "2022-07-09T13:01:00.771Z",
+        "name": "mail",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e934f901-4ed5-41dc-ad7f-9f52d9b7df37",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "mail",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:676-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d29369fe-91b1-4861-a859-acb70e91fe24",
+        "createdAt": "2022-06-25T14:22:51.117Z",
+        "updatedAt": "2022-07-09T13:01:00.778Z",
+        "name": "menu",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/84c1a040-97a5-4797-9ac8-899f21e7eb7a",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "menu",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:664-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "8bc304e2-ae7c-41cd-9796-acaf1a83dd35",
+        "createdAt": "2022-06-25T14:22:51.124Z",
+        "updatedAt": "2022-07-09T13:01:00.794Z",
+        "name": "menu-alt-1",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a0d723b8-1d08-495d-ad09-62541550697f",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "menu-alt-1",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:658-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "b7c49f78-4d0d-4383-9d17-5e6945b44411",
+        "createdAt": "2022-06-25T14:22:51.128Z",
+        "updatedAt": "2022-07-09T13:01:00.806Z",
+        "name": "menu-alt-2",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6efbe49b-2f4e-408c-8a9b-239c389e9f4d",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "menu-alt-2",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:696-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "dae682e8-3d34-4743-924e-dd514794a6d8",
+        "createdAt": "2022-06-25T14:22:51.142Z",
+        "updatedAt": "2022-07-09T13:01:00.817Z",
+        "name": "menu-alt-3",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ea875c8-ef34-46ab-a467-dc9001e0be47",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "menu-alt-3",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:698-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "58812f57-9e04-41c3-8981-b36c9868514c",
+        "createdAt": "2022-06-25T14:22:51.147Z",
+        "updatedAt": "2022-07-09T13:01:00.825Z",
+        "name": "menu-alt-4",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e6ad56f2-355b-4ea0-9561-293984d6c456",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "menu-alt-4",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:716-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "afc1f284-ddd3-4ebf-9596-dfb36f75b1ef",
+        "createdAt": "2022-06-25T14:22:51.089Z",
+        "updatedAt": "2022-07-09T13:01:00.792Z",
+        "name": "minus-circle / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/464c1111-400e-4d51-bc55-977f63e611a3",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "minus-circle / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "minus-circle"
+        },
+        "type": "vector",
+        "originId": "31:1125-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "409d573a-d29f-4c9c-b2d0-aa3194c3eabe",
+        "createdAt": "2022-06-25T14:22:51.095Z",
+        "updatedAt": "2022-07-09T13:01:00.798Z",
+        "name": "minus-circle / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/89c387f3-f8dc-4e04-bd24-d212e88deb92",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "minus-circle / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "minus-circle"
+        },
+        "type": "vector",
+        "originId": "31:1145-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "4fd0c024-0264-4359-83d8-16ac840ca74c",
+        "createdAt": "2022-06-26T07:58:28.924Z",
+        "updatedAt": "2022-06-26T07:58:28.924Z",
+        "name": "Mongo DB Integration - Via Host",
+        "value": {
+            "a": 1,
+            "b": 147,
+            "g": 114,
+            "r": 128
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/1z1WWl0bU38pN2PSPlFRZI",
+            "originFrameName": "Mongo DB SRV"
+        },
+        "type": "color",
+        "originId": "12:73",
+        "sourceId": "f9c2d067-74a1-42c2-a28c-065e46cf88bd",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "239f269f-87c4-4d99-887d-a86bfd0a85eb",
+        "createdAt": "2022-06-26T07:58:28.929Z",
+        "updatedAt": "2022-06-26T07:58:28.929Z",
+        "name": "Mongo DB Integration - Via SRV path",
+        "value": {
+            "a": 1,
+            "b": 147,
+            "g": 114,
+            "r": 128
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/1z1WWl0bU38pN2PSPlFRZI",
+            "originFrameName": "Mongo DB SRV"
+        },
+        "type": "color",
+        "originId": "12:221",
+        "sourceId": "f9c2d067-74a1-42c2-a28c-065e46cf88bd",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "18e3ef1c-d34a-4270-b66d-a933a3551560",
+        "createdAt": "2022-06-25T14:22:51.146Z",
+        "updatedAt": "2022-07-09T13:01:00.821Z",
+        "name": "office-building",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a6a0933b-d319-4f45-8c12-2447f7ac43df",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "office-building",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:710-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "012d7bc5-de97-4b3a-8f6f-2455b28891b4",
+        "createdAt": "2022-06-25T14:22:51.184Z",
+        "updatedAt": "2022-07-09T13:01:00.887Z",
+        "name": "pencil",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e211f975-52ca-4fdd-ba0e-91bf17834a9d",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "pencil",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:708-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "5c450334-df1c-4141-9086-b43180601044",
+        "createdAt": "2022-06-25T14:22:51.177Z",
+        "updatedAt": "2022-07-09T13:01:00.877Z",
+        "name": "pencil-alt",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e26c5de4-ee36-4cdf-ba69-88de7233726c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "pencil-alt",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:738-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "87a1724e-d745-4af4-a100-7d801f94b7de",
+        "createdAt": "2022-06-25T14:22:51.184Z",
+        "updatedAt": "2022-07-09T13:01:00.888Z",
+        "name": "phone",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6e86649d-77c6-4d39-a92d-6ca2333bbd50",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "phone",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:726-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "49ca4782-25dc-4460-93a7-87159a93c162",
+        "createdAt": "2022-06-25T14:22:51.212Z",
+        "updatedAt": "2022-07-09T13:01:00.912Z",
+        "name": "phone-incoming",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/084e6f41-cf80-46b5-b780-7da096c31ba4",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "phone-incoming",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:756-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "48f0b794-c927-426c-a055-3e96fceb9bad",
+        "createdAt": "2022-06-25T14:22:51.202Z",
+        "updatedAt": "2022-07-09T13:01:00.898Z",
+        "name": "phone-outgoing",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8ee7a0af-2a0f-429c-91f9-e643d58f9652",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "phone-outgoing",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:744-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "369f0197-9eee-49ba-b97c-af543854feb1",
+        "createdAt": "2022-06-25T14:22:51.153Z",
+        "updatedAt": "2022-07-09T13:01:00.857Z",
+        "name": "photograph",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b171f03a-3d3e-47d5-9db3-a57fb43f387f",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "photograph",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:648-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "ddaecc3d-233f-49ff-ab2e-536ae224187a",
+        "createdAt": "2022-06-25T14:22:51.205Z",
+        "updatedAt": "2022-07-09T13:01:00.899Z",
+        "name": "plus",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ab0e9ea8-52df-4058-a02f-f240664c0376",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "plus",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:746-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "025d3281-fe43-4f2e-b742-1e72acf40649",
+        "createdAt": "2022-06-25T14:22:51.090Z",
+        "updatedAt": "2022-07-09T13:01:00.780Z",
+        "name": "plus-circle / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/03442e05-9fd2-4b8c-b2a7-64fa7f9d6790",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "plus-circle / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "plus-circle"
+        },
+        "type": "vector",
+        "originId": "31:1121-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "172a4f71-6e09-45e6-a53b-9f8722edc5bb",
+        "createdAt": "2022-06-25T14:22:51.089Z",
+        "updatedAt": "2022-07-09T13:01:00.795Z",
+        "name": "plus-circle / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2e42e3ac-f056-49a4-8edb-4f7f81de981a",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "plus-circle / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "plus-circle"
+        },
+        "type": "vector",
+        "originId": "31:1141-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "23be5ff4-afc7-45ff-ba2e-992b1696a9ae",
+        "createdAt": "2022-06-25T14:22:51.118Z",
+        "updatedAt": "2022-07-09T13:01:00.784Z",
+        "name": "question-mark-circle",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/23622edc-3803-4c00-977e-1e5135fc959b",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "question-mark-circle",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:660-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "c9162734-8cd9-4737-8e46-ff57545bc602",
+        "createdAt": "2022-06-25T14:22:51.212Z",
+        "updatedAt": "2022-07-09T13:01:00.909Z",
+        "name": "refresh",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0c0e6ba5-df8a-4d52-a7a7-3553b8105171",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "refresh",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:758-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "dc009dc2-1799-4bbf-941d-302284f40242",
+        "createdAt": "2022-06-25T14:22:51.153Z",
+        "updatedAt": "2022-07-09T13:01:00.828Z",
+        "name": "scale",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/64f767d9-19dd-4f84-b8ee-1b5fc342e5be",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "scale",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:730-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "4e951686-cddb-4959-a980-11fdbf1ef503",
+        "createdAt": "2022-06-25T14:22:51.143Z",
+        "updatedAt": "2022-07-09T13:01:00.822Z",
+        "name": "share",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/72752c3b-d620-4c5a-b3c9-9de99e4a1de4",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "share",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:684-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "fe147fb3-6590-4a70-8102-f6d171b43c9a",
+        "createdAt": "2022-06-25T14:22:51.145Z",
+        "updatedAt": "2022-07-09T13:01:00.823Z",
+        "name": "shield-check",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ab8e3f3a-d541-4860-a4f1-8bf905d49936",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "shield-check",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:706-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "2f14537e-7a67-4aaa-a935-9a1e891ca81a",
+        "createdAt": "2022-06-25T14:22:51.153Z",
+        "updatedAt": "2022-07-09T13:01:00.827Z",
+        "name": "shield-exclamation",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bbf60c59-8f71-442d-83f8-d7929769fbad",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "shield-exclamation",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:728-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "f3928692-50d3-4771-b0c2-599493b30bc7",
+        "createdAt": "2022-06-25T14:22:51.179Z",
+        "updatedAt": "2022-07-09T13:01:00.882Z",
+        "name": "switch-horizontal",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d5ab49fb-efd9-4160-901d-2e6726106302",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "switch-horizontal",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:692-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "f6e3cb67-87b3-4086-b276-730908e4297e",
+        "createdAt": "2022-06-25T14:22:51.158Z",
+        "updatedAt": "2022-07-09T13:01:00.862Z",
+        "name": "switch-vertical",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b33f4bc5-b385-402d-b5c3-055815a819f1",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "switch-vertical",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:654-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "fd836c6e-c3fd-44fc-867a-9dd82887ba27",
+        "createdAt": "2022-06-25T14:22:51.178Z",
+        "updatedAt": "2022-07-09T13:01:00.873Z",
+        "name": "tag",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/960313a6-b7ad-4aed-80b0-2bd1770d4b13",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "tag",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:686-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "ac451635-5d4f-4ba7-bb88-5f899bbb7f9e",
+        "createdAt": "2022-06-25T14:23:50.800Z",
+        "updatedAt": "2022-07-09T13:01:03.443Z",
+        "name": "_thumbnail",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8cbfda83-6ce3-4045-94c2-b685f32177e0",
+            "format": "jpg",
+            "dimension": 2
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "_thumbnail",
+            "format": "jpg",
+            "dimension": 2,
+            "parentFrame": "Thumbnail"
+        },
+        "type": "bitmap",
+        "originId": "1:139-jpg-2",
+        "sourceId": "bbe190d1-4122-4945-8745-f93ed9729526",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "c9439a9f-545a-42c7-906c-89e7df48aeb7",
+        "createdAt": "2022-06-25T14:22:51.199Z",
+        "updatedAt": "2022-07-09T13:01:00.898Z",
+        "name": "translate",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/400e5092-c8e7-4e0a-84ca-151601e2248c",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "translate",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:656-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "7cd330f0-460d-4d5d-9b50-240c3d778b05",
+        "createdAt": "2022-06-25T14:22:51.120Z",
+        "updatedAt": "2022-07-09T13:01:00.787Z",
+        "name": "user",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8db00280-b3be-4ed4-bddd-d4dd6c4c9967",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "user",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:670-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "0b38d8ee-078e-4e36-bbd3-fc2b70ba525e",
+        "createdAt": "2022-06-25T14:22:51.138Z",
+        "updatedAt": "2022-07-09T13:01:00.812Z",
+        "name": "user-group",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7933f9aa-b3ec-4360-aadc-8a6d9e2d2a29",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "user-group",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:690-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "0618a6b4-4e85-4b24-8223-15bf85ffb1a0",
+        "createdAt": "2022-06-25T14:22:51.128Z",
+        "updatedAt": "2022-07-09T13:01:00.804Z",
+        "name": "users",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c5f89c9a-7c21-4eeb-896d-2601c5cb4cf6",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "users",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:688-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "d737649d-686b-4bfe-af93-1ba573c9e7b8",
+        "createdAt": "2022-06-25T14:22:51.186Z",
+        "updatedAt": "2022-07-09T13:01:00.897Z",
+        "name": "volume-off",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/59ce7b66-a8ed-4149-b4b1-cfba8bce3efc",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "volume-off",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:722-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "48227ef8-a84a-4887-8241-c5c1d014061e",
+        "createdAt": "2022-06-25T14:22:51.184Z",
+        "updatedAt": "2022-07-09T13:01:00.884Z",
+        "name": "volume-up",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f543a0ea-48e7-4b24-a915-83f3a4891f15",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "volume-up",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:700-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "8cdebcc2-cfe4-436e-b36c-6f0260d7af25",
+        "createdAt": "2022-06-25T14:22:51.186Z",
+        "updatedAt": "2022-07-09T13:01:00.886Z",
+        "name": "x",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/201b91c3-d6bc-4b1a-9f9a-0fe0fd3c11d5",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "x",
+            "format": "svg",
+            "dimension": 1,
+            "parentFrame": "Vectors"
+        },
+        "type": "vector",
+        "originId": "29:652-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "c467c695-b0b3-4816-8aed-308f595379a5",
+        "createdAt": "2022-06-25T14:22:51.066Z",
+        "updatedAt": "2022-07-09T13:01:00.674Z",
+        "name": "x-circle / Outline",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/39e27d32-3407-42fd-bb12-40af416713ad",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "x-circle / Outline",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "x-circle"
+        },
+        "type": "vector",
+        "originId": "31:1115-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    },
+    {
+        "id": "fcff5b8b-57b5-477e-98c8-150954300eb9",
+        "createdAt": "2022-06-25T14:22:51.076Z",
+        "updatedAt": "2022-07-09T13:01:00.684Z",
+        "name": "x-circle / Solid",
+        "value": {
+            "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/03225d2e-2875-4207-a9f8-4516041bc1f9",
+            "format": "svg"
+        },
+        "meta": {
+            "file": "Example File",
+            "page": "Thumbnail",
+            "frame": "x-circle / Solid",
+            "format": "svg",
+            "dimension": 1,
+            "description": "",
+            "parentFrame": "x-circle"
+        },
+        "type": "vector",
+        "originId": "31:1135-svg-1",
+        "sourceId": "250b076f-c013-4d28-92bb-d3663bde3ddb",
+        "repositoryId": "9a7c87d8-6276-4ef9-934d-e0a8d5da69a7"
+    }
+]
